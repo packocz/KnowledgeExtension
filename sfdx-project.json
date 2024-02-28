@@ -1,0 +1,20 @@
+{
+	"packageDirectories": [
+		{
+			"path": "knowledge",
+			"default": true,
+			"package": "KnowledgeExtension",
+			"versionName": "ver 0.1",
+			"versionNumber": "0.1.0.NEXT",
+			"versionDescription": "Testing custom fields on Knowledge__kav",
+			"definitionFile": "config/project-scratch-def.json"
+		}
+	],
+	"name": "KnowledgeExtension",
+	"namespace": "packocz",
+	"sfdcLoginUrl": "https://login.salesforce.com",
+	"sourceApiVersion": "59.0",
+	"packageAliases": {
+		"KnowledgeExtension": "0Ho08000000PAw5CAG"
+	}
+}
