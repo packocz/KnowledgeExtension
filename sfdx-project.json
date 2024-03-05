@@ -16,6 +16,7 @@
 	"sourceApiVersion": "59.0",
 	"packageAliases": {
 		"KnowledgeExtension": "0Ho08000000PAw5CAG",
-		"KnowledgeExtension@0.1.0-1": "04t08000000UJwVAAW"
+		"KnowledgeExtension@0.1.0-1": "04t08000000UJwVAAW",
+		"KnowledgeExtension@0.1.0-2": "04t08000000UJx9AAG"
 	}
 }

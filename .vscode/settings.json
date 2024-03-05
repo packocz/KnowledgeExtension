@@ -16,5 +16,10 @@
 	"salesforcedx-vscode-core.show-cli-success-msg": false,
 	"git.ignoreLimitWarning": true,
 	"prettier.configPath": ".prettierrc",
-	"prettier.ignorePath": ".prettierignore"
+    "prettier.ignorePath": ".prettierignore",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4D1255",
+        "titleBar.activeBackground": "#6C1977",
+        "titleBar.activeForeground": "#FEFCFE"
+    }
 }
