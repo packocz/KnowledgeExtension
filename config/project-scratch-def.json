@@ -1,13 +1,26 @@
 {
 	"orgName": "ext43767 company",
 	"edition": "Enterprise",
-	"features": ["EnableSetPasswordInApi", "Knowledge"],
+	"features": ["EnableSetPasswordInApi", "Knowledge", "ServiceCloud"],
 	"settings": {
 		"lightningExperienceSettings": {
 			"enableS1DesktopEnabled": true
 		},
 		"mobileSettings": {
 			"enableS1EncryptedStoragePref2": false
+		}
+	},
+	"knowledgeSettings": {
+		"enableKnowledge": true,
+		"enableLightningKnowledge": true,
+		"defaultLanguage": "cs",
+		"languages": {
+			"language": [
+				{
+					"active": true,
+					"name": "cs"
+				}
+			]
 		}
 	}
 }
